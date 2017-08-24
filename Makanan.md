@@ -1,14 +1,14 @@
-# TUGAS PBO 25 Agustus 2017
+# ULANGAN PBO 25 Agustus 2017
+
 ### **Tata cara pengerjaan soal**
 
-> klik link ini [Tata cara pengerjaan soal](https://github.com/ramdanisource/TugasPBO/blob/master/solving%201/README.md) untuk melihat cara pengerjaan tugas
+> klik link ini [Tata cara pengerjaan soal](https://github.com/ramdanix/TugasPBO/blob/master/solving%201/README.md) untuk melihat cara pengerjaan tugas
 
 # **Soal**
 ### **Perhatikan sumber kode dibawah ini!, nama package menyesuaikan** ###
 
 ```shell
 public class Makanan {
-
     String namaMakanan;
     int kategoriMakanan;
     String bahanMakanan;
@@ -39,7 +39,7 @@ class Pembeli{
         System.out.printin("bahan : "+pesanan.bahanMakanan);
         System.out.println("asal : "+pesanan.asalMakanan);
         System.out.println("jumlah beli : "Makanan.jmlPesan);
-        System.out.println("total harga : Rp. "+pesanan.hargaMakanan+Makanan.jmlPesan);
+        System.out.println("total harga : Rp. "+Makanan.hargaMakanan+Makanan.jmlPesan);
     }
 }
 ```
