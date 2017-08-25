@@ -7,5 +7,5 @@
 
 Jenis soal ada dua yaitu 
 
-- [Soal A](https://github.com/ramdanix/ulangan-pbo-2017/blob/master/Makanan.md)
-- [Soal B](https://github.com/ramdanix/ulangan-pbo-2017/blob/master/Minuman.md))
+- [Soal A](https://github.com/ramdanix/ulangan-pbo-2017/blob/master/Makanan.md) - [source code](http://s.id/F3N)
+- [Soal B](https://github.com/ramdanix/ulangan-pbo-2017/blob/master/Minuman.md) - [source code](http://s.id/F3O)
